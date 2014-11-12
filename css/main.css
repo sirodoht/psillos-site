@@ -17,8 +17,9 @@ body, h1, h2, h3, h4, h5, h6, a {
 
 #jumbotron {
   background: #FBFBFC;
-  background: url("../img/keep-calm.jpg") center 10% no-repeat;
+  background: url("../img/keep-calm.jpg") center 25% no-repeat;
   min-height: 900px;
+  padding-bottom: 35px;
   /*box-shadow: 0 0 2em #eee;*/
   /*box-shadow: inset 0 0 1em #ddd;*/
 }

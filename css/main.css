@@ -23,11 +23,19 @@ body, h1, h2, h3, h4, h5, h6, a {
   /*box-shadow: inset 0 0 1em #ddd;*/
 }
 
+.img {
+  margin: 10px auto;
+}
+
+.fb-box-wrapper {
+  display: inline-block;
+  background: #eee;
+}
+
 .fb-like-box {
   display: inline-block;
   width: 470px;
   height: 270px;
-  background: #eee;
 }
 
 .fb-like {

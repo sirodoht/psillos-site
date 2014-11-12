@@ -1,10 +1,5 @@
 body {
-  background: url("img/dimension.png"); /* Source: http://subtlepatterns.com/patterns/dimension.png */
-}
-
-.home-bg {
-  background: url("../img/keep-calm.jpg") center 100% no-repeat;
-
+  background: url("../img/dimension.png"); /* Source: http://subtlepatterns.com/patterns/dimension.png */
 }
 
 body, h1, h2, h3, h4, h5, h6, a {

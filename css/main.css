@@ -1,9 +1,14 @@
 body {
-  background: url("../img/dimension.png"); /* Source: http://subtlepatterns.com/patterns/dimension.png */
+  background: url("img/dimension.png"); /* Source: http://subtlepatterns.com/patterns/dimension.png */
+}
+
+.home-bg {
+  background: url("../img/keep-calm.jpg") center 100% no-repeat;
+
 }
 
 body, h1, h2, h3, h4, h5, h6, a {
-  font-family: "Open Sans"
+  font-family: "Open Sans", Arial, sans-serif;
 }
 
 .header {
@@ -17,8 +22,10 @@ body, h1, h2, h3, h4, h5, h6, a {
 
 #jumbotron {
   background: #FBFBFC;
-  box-shadow: 0 0 2em #eee;
-  box-shadow: inset 0 0 1em #ddd;
+  background: url("../img/keep-calm.jpg") center 10% no-repeat;
+  min-height: 900px;
+  /*box-shadow: 0 0 2em #eee;*/
+  /*box-shadow: inset 0 0 1em #ddd;*/
 }
 
 .fb-like-box {

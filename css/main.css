@@ -1,5 +1,7 @@
 body {
-  background: url("../img/dimension.png"); /* Source: http://subtlepatterns.com/patterns/dimension.png */
+  /* Source: http://subtlepatterns.com/patterns/dimension.png */
+  /* background: url("../img/dimension.png"); */
+  background: #fff;
 }
 
 body, h1, h2, h3, h4, h5, h6, a {
@@ -9,6 +11,17 @@ body, h1, h2, h3, h4, h5, h6, a {
 .header {
   display: block;
   margin: 20px 0;
+}
+
+.header-bg {
+  background: #1e1e1e;
+}
+
+.header-bg-inner {
+  max-width: 62.5rem;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
 
 #nav {
@@ -54,4 +67,8 @@ footer p {
 
 .jotform-form {
   background: transparent;
+}
+
+.subheader {
+  font-size: 21px;
 }
